@@ -15,6 +15,6 @@
 
 | 名称 | 地址 | 笔记 | 日期 |
 | --- | --- | --- | --- |
-| **Uber Go Style Guide** | [原文](https://github.com/uber-go/guide/blob/master/style.md)| - | 日期：`2019.10.13` |
+| **Uber Go Style Guide** | [原文](https://github.com/uber-go/guide/blob/master/style.md)| [笔记](articles/Uber_Go_Style_Guide.md) | 日期：`2019.10.13` |
 
 ## 订阅
