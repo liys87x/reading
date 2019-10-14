@@ -1,11 +1,20 @@
-# reading
+# 阅读记录
 
-> 读书笔记
+> 1. **只记录值得推荐的内容**
+> 2. 文章会附原文地址
+> 3. 如果有笔记会附笔记链接
+> 4. 书籍使用书名号《》标注
 
-## 进行中
+## 书籍
 
-- **[The Art of Readable Code](books/The_Art_of_Readable_Code/note.md)**: 《编写可读代码的艺术》, `50%`
+| 名称 | 地址 | 笔记 | 进度 | 日期 |
+| --- | --- | --- | --- | --- |
+| 《The Art of Readable Code》/《编写可读代码的艺术》| - | [笔记](books/The_Art_of_Readable_Code/note.md) | `10/15` | `2019.10.13 - ~` |
 
-## 计划中
+## 文章
 
-## 已完成
+| 名称 | 地址 | 笔记 | 日期 |
+| --- | --- | --- | --- |
+| **Uber Go Style Guide** | [原文](https://github.com/uber-go/guide/blob/master/style.md)| - | 日期：`2019.10.13` |
+
+## 订阅
