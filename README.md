@@ -9,7 +9,7 @@
 
 | 名称 | 地址 | 笔记 | 进度 | 日期 |
 | --- | --- | --- | --- | --- |
-| 《The Art of Readable Code》/《编写可读代码的艺术》| - | [笔记](books/The_Art_of_Readable_Code/note.md) | `10/15` | `2019.10.13 - ~` |
+| 《The Art of Readable Code》/《编写可读代码的艺术》| - | [笔记](books/The_Art_of_Readable_Code/note.md) | `14/15` | `2019.10.13 - ~` |
 
 ## 文章
 
