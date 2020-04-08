@@ -10,7 +10,7 @@
 - 《Rust 程序设计语言》
   - | [Source](https://kaisery.github.io/trpl-zh-cn) | [笔记](books/rust.md) | Progress: `13/21` | Date: `2020.03.14 - ~` |
 - 《Puppy Money 1》
-  - | [笔记](books/Puppy_Money_1.md) | Progress: `2/18` | Date: `2020.04.07 - ~` |
+  - | [笔记](books/Puppy_Money_1.md) | Progress: `3/18` | Date: `2020.04.07 - ~` |
 - 《The Art of Readable Code》
   - | [笔记](books/The_Art_of_Readable_Code.md) | Progress: `14/15` | Date: `2019.10.13 - ~` |
 
