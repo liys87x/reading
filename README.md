@@ -8,7 +8,7 @@
 ## 书籍
 
 - 《Puppy Money 2》
-  - | [笔记](books/Puppy_Money_2.md) | Progress: `5/14` | Date: `2020.04.12 - ~` |
+  - | [笔记](books/Puppy_Money_2.md) | Progress: `7/14` | Date: `2020.04.12 - ~` |
 - 《Rust 程序设计语言》
   - | [Source](https://kaisery.github.io/trpl-zh-cn) | [笔记](books/rust.md) | Progress: `13/21` | Date: `2020.03.14 - ~` |
 - 《Puppy Money 1》
