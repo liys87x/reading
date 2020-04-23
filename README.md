@@ -7,6 +7,8 @@
 
 ## 书籍
 
+- 《Rust By Example》
+  - | [Source](https://doc.rust-lang.org/stable/rust-by-example) | Progress: `2/24` | Date: `2020.04.23 -  `|
 - 《Puppy Money 2》
   - | [笔记](books/Puppy_Money_2.md) | Progress: `14/14` | Date: `2020.04.12 - 2020.04.15` |
 - 《Rust 程序设计语言》
